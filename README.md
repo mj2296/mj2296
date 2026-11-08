@@ -17,10 +17,10 @@ Computer Science (Artificial Intelligence) student at the University of Leeds ·
 ## Smaller projects
 
 - [rag-tool](https://github.com/mj2296/rag-tool) · document Q&A using OpenAI embeddings and cosine-similarity retrieval
+- [orderbook-simulator](https://github.com/mj2296/orderbook-simulator) · limit order book matching engine built from scratch in Python: price-time priority, limit and market orders, interactive CLI with CSV replay, 14 tests
 - [backtester](https://github.com/mj2296/backtester) · moving-average trading backtester on synthetic price data
 - [budget-tracker](https://github.com/mj2296/budget-tracker) · SQLite budget tracker
-- [orderbook-simulator](https://github.com/mj2296/orderbook-simulator) · order book simulator
-- [dsa-practice](https://github.com/mj2296/dsa-practice) · data structures and algorithms practice
+- [dsa-practice](https://github.com/mj2296/dsa-practice) · data structures and algorithms problems, each with a write-up of the approach
 
 ## Stack
 
